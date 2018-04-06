@@ -1,3 +1,4 @@
 Hello World.
 This is a sample file for GIT Demonstration.
-Bye.
+Bye Everyone.
+Have a nice day.
