@@ -1,2 +1,4 @@
 Hello Buddies.
-Welcome
+Welcome to the session.
+Have a nice day.
+Bye.
